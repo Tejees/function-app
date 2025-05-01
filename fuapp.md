@@ -13,6 +13,15 @@ Azure Functions is a serverless solution that allows you to write less code, mai
 
 ## Task 1 : Create a Function App
 
-1.Navigate to visual Studio code.
+1.From your local machine, search for Visual Studio code and open it.
+
+  ![](https://github.com/Tejees/function-app/blob/main/0.png)
+
+2. Once the Visual studio code is open, follow the below mentioned steps:
+
+   -  Press `cntrl + shift + P` **(1)**
+   -  On search bar, enter **Azure sign in (2)**
+   -  Click on **Azure Sign In (3)**
+
 
 
