@@ -13,4 +13,6 @@ Azure Functions is a serverless solution that allows you to write less code, mai
 
 ## Task 1 : Create a Function App
 
-1.Open visual Studio 
+1.Navigate to visual Studio code.
+
+
