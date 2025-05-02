@@ -194,7 +194,7 @@ Azure Functions is a serverless solution that allows you to write less code, mai
 
 9. Open Function app in azure portal
     -**Click on blob triggers and click logs**
-     ![](https://github.com/Tejees/function-app/blob/main/36.png)
+     ![](https://github.com/Tejees/function-app/blob/main/37.jpg)
 
 ---   
     
